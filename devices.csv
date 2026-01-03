@@ -1,0 +1,3 @@
+ip,username,password,secret,device_type
+192.0.2.10,admin,pa55w0rd,enablepw,cisco_ios
+192.0.2.11,admin,pa55w0rd,,cisco_ios
